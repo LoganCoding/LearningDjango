@@ -1,2 +1,2 @@
 # LearningDjango
-I hope this pushes proper
+Push Successful
